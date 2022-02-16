@@ -11,3 +11,5 @@ print("add n1 / n2=", end=' ')
 print(n1 / n2)
 print("add n1 % n2=", end=' ')
 print(n1 % n2)
+
+print(n1 , n2)
